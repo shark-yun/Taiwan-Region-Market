@@ -139,7 +139,7 @@ df_tw.shape
 
 
 import requests
-api_key='AIzaSyAxmcI22pbi4IyIlLAv9xiZVPYPaKTQAPs'
+api_key='Put_My_Api'
 
 
 # In[36]:
